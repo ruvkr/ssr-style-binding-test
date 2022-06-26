@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  min-height: 200vh;
+  padding: 16px;
+}
+
+.title {
+  margin-top: 200px;
+  background-color: skyblue;
+  color: green;
+  transition: all 2000ms;
+}
